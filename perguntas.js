@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a diferença de tempo e clima?',
+    'Tempo:"hoje esta chovendo"  Clima:O clima no Brasil e tropical'
 )
 
 criaCartao(
